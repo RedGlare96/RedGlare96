@@ -1,6 +1,6 @@
 # Hello, I'm Redglare
-### **Freelance Python developer**
-I'm a freelance developer with a speciality in making automated web-based processes in Python and backend web development In Django and Flask. I am very experienced in making fast and resilient web scrapers that can tackle any kind of dynamic web site. I am also very good at building responsive backend for websites in Django or Flask. I can also diagnose issues with large Django projects and deploy critical patches in time sensitive environments.   
+### **Python developer**
+I'm a developer with a speciality in making automated web-based processes in Python and backend web development In Django and Flask. I am very experienced in making fast and resilient web scrapers that can tackle any kind of dynamic web site. I am also very good at building responsive backend for websites in Django or Flask. I can also diagnose issues with large Django projects and deploy critical patches in time sensitive environments.   
 
 ![Profile views](https://gpvc.arturio.dev/RedGlare96)
 
